@@ -1,0 +1,23 @@
+{
+  "name": "bryaan159",
+  "version": "1.0.0",
+  "description": "api lab",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./bin/www",
+    "dev": "DEBUG=dummyDictionary:* nodemon ./bin/www"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UCASV/apibackend-Bryaan159.git"
+  },
+  "keywords": [
+    "Bryaan159"
+  ],
+  "author": "Bryaan159",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/UCASV/apibackend-Bryaan159/issues"
+  },
+  "homepage": "https://github.com/UCASV/apibackend-Bryaan159#readme"
+}
